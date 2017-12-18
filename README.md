@@ -1,6 +1,9 @@
 # mingw_w64-qt5_static-cmake-console-example
 A "Hello, world" console application using statically compiled Qt 5 by MinGW-w64 in 64 bit and CMake
 
+![Screenshot](screenshot.png)
+
+
 # How to build
  - download https://github.com/tim-lebedkov/packages/releases/download/initial/com.nokia.QtDev-x86_64-w64-Npackd-Release-5.5.7z and unpack it into C:\NpackdSymlinks\com.nokia.QtDev-x86_64-w64-Npackd-Release-5.5
  - download CMake from https://www.cmake.org/files/v3.10/cmake-3.10.1-win32-x86.zip and unpack it into "C:\Program Files\CMake"
